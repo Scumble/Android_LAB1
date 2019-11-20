@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CHAN_TKHAN_NAM_LAB1</string>
+    <string name="noteName">Назва: %s</string>
+    <string name="noteDate">Дата: %s</string>
+    <string name="notePriority">Пріорітет: %s</string>
+    <string name="note_name">Назва нотатка</string>
+    <string name="note_text">Текст нотатка</string>
+    <string name="note_priority">Пріорітет</string>
+    <string name="note_image">Зображення</string>
+    <string name="get_image">Отримати зображення</string>
+    <string name="save">Зберегти</string>
+    <string name="confirmation">Ви впевнені?</string>
+    <string name="del">Ви хочете видалити цей нотаток?</string>
+    <string name="warning">Заповніть нотаток!</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string-array name="priority">
+        <item>Усі</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

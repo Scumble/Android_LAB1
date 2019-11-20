@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CHAN_TKHAN_NAM_LAB1</string>
+    <string name="noteName">Name: %s</string>
+    <string name="noteDate">Date: %s</string>
+    <string name="notePriority">Priority: %s</string>
+    <string name="note_name">Note Name</string>
+    <string name="note_text">Text</string>
+    <string name="note_priority">Priority</string>
+    <string name="note_image">Image</string>
+    <string name="get_image">Get Image</string>
+    <string name="save">Save</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="del">Do you want to delete this note?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning">Fill the note!</string>
+    <string-array name="priority">
+        <item>All</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

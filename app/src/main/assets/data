@@ -1,0 +1,18 @@
+[
+  {
+    "noteId": 1,
+    "name": "test",
+    "text": "text",
+    "dateTime": "22/04/2019",
+    "priority": "Low",
+    "image": "asd"
+  },
+  {
+    "noteId": 2,
+    "name": "test2",
+    "text": "text2",
+    "dateTime": "22/04/2019",
+    "priority": "High",
+    "image": "asd"
+  }
+]

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".NotesActivity">
+
+    <item
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        android:title="ADD" />
+
+    <item
+        android:id="@+id/menu_spinner"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        app:actionViewClass="android.widget.Spinner"
+        app:showAsAction="ifRoom|collapseActionView"
+        android:visible="true"
+        android:title="Filter" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+</menu>
